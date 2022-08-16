@@ -1,0 +1,8 @@
+.bg-1 {
+	background:red;	
+}
+
+.bg-2 {
+	background:url('https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg');
+	background-size:cover;
+}
