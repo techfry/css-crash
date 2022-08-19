@@ -1,0 +1,25 @@
+.position-relative {position: relative;} 
+.position-absolute {position: absolute;} 
+.position-fixed {position: fixed;}
+.position-sticky {position: sticky;} 
+.position-static {position: static;}
+
+.top-0 {top: 0;}
+.top-25 {top: 25%;}
+.top-50 {top: 50%;}
+.top-75 {top: 75%;}
+
+.bottom-0 {bottom: 0;}
+.bottom-25 {bottom: 25%;}
+.bottom-50 {bottom: 50%;}
+.bottom-75 {bottom: 75%;}
+
+.start-0 {left: 0;}
+.start-25 {left: 25%;}
+.start-50 {left: 50%;}
+.start-75 {left: 75%;}
+
+.end-0 {right: 0;} 
+.end-25 {right: 25%;}
+.end-50 {right: 50%;}
+.end-75 {right: 75%;}
