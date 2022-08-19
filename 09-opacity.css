@@ -1,0 +1,6 @@
+.opacity-100 {opacity: 1;} 
+.opacity-75 {opacity: .75;} 
+.opacity-50 {opacity: .5;} 
+.opacity-25 {opacity: .25;}
+
+.hover-opacity:hover {opacity: 0.5}
