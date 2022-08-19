@@ -1,0 +1,33 @@
+.text-start {text-align: left;} 
+.text-center {text-align: center;} 
+.text-end {text-align: right;}
+
+.align-top {vertical-align: top;} 
+.align-moddle {vertical-align: middle;} 
+.align-bottom {vertical-align: bottom;}
+
+.text-lowercase {text-transform: lowercase;} 
+.text-uppercase {text-transform: uppercase;} 
+.text-capitalize {text-transform: capitalize;}
+
+.text-decoration-underline {text-decoration: underline;} 
+.text-decoration-line-through {text-decoration: line-through;} 
+.text-decoration-none {text-decoration: none;}
+
+.fs-3 {font-size: 1.75rem;}
+
+.fw-bold {font-weight: 700;} 
+.fw-light {font-weight: 300;} 
+
+.fst-italic {font-style: italic;}
+
+.lh-1 {line-height: 1;} 
+.lh-sm {line-height: 1.25;} 
+.lh-base {line-height: 1.5;} 
+.lh-lg {line-height: 2;}
+
+.lead {font-size: 1.25rem; font-weight: 300;}
+
+.font-monospace {font-family: monospace;}
+
+.text-reset {color: inherit;}
