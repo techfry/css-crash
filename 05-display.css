@@ -1,0 +1,10 @@
+.d-inline {display: inline;} 
+.d-block {display: block;} 
+.d-none {display: none;}
+
+.float-start {float: left;} 
+.float-end {float: right;} 
+.float-none {float: none;}
+
+.hide {display: none;} 
+.show {display: block;}
